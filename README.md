@@ -45,4 +45,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries or feedback, please contact [Anant](mailto:srivastav.suryansh19@gmail.com).
+For any inquiries or feedback, please contact [Suryansh](mailto:srivastav.suryansh19@gmail.com).
